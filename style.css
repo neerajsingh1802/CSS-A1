@@ -1,0 +1,22 @@
+p{
+    font-style: italic;
+    color: red;
+    font-size: 25px;
+}
+
+#p1{
+    color: red;
+}
+#p2{
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+}
+#p3{
+    color: red;
+    letter-spacing:5px;
+}
+
+#p4{
+    color: brown;
+}
